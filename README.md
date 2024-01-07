@@ -40,6 +40,10 @@ Previsão do comportamento dos dados, utilizando três modelos/ algoritmos de Ap
 Máquina ( KNN, Decision Tree e Naive Bayes). Análise dos mesmos tendo em conta diferentes
 métricas de erro, nomeadamente Accuracy, Precision e Recall. Processo de otimização dos modelos selecionados, utilizando 2 métodos de partição de dados diferentes (Hold-out sample e Cross- Validation). Análise do melhor modelo obtido.
 
+## Literatura Consultada:
+
+Wijngaarden MA, Bakker LE, van der Zon GC, et al. Regulation of skeletal muscle energy/nutrient-sensing pathways during metabolic adaptation to fasting in healthy humans. Am J Physiol Endocrinol Metab. 2014;307(10):E885-E895. doi:10.1152/ajpendo.00215.2014
+
 
 
 
