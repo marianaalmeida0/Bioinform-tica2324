@@ -33,7 +33,7 @@ Gráficos exploratórios iniciais das principais características dos dados e me
 
 ### Etapa 2:
 Utilização de técnicas de redução de dimensionalidade adequadas. Aplicação de  métodos
-de clustering. Análide dos resultados obtidos.
+de clustering. Análise dos resultados obtidos.
 
 ### Etapa 3:
 Previsão do comportamento dos dados, utilizando três modelos/ algoritmos de Aprendizagem
